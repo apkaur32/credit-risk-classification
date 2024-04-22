@@ -2,6 +2,8 @@
 
 ## Overview of the Analysis
 
+![lending2024-04-21 at 8 35 48 PM](https://github.com/apkaur32/credit-risk-classification/assets/150749167/734da2fb-cb47-457d-8f78-2f08727ff65e)
+
 * The purpose of this analysis was to use various techniques to train and evaluate a model based on loan risk. I used a dataset of lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
 
 * The data was based on seven financial factors: loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, and total debt as predictive factors for the 'loan_status'. 
