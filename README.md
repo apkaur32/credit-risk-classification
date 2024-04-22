@@ -29,6 +29,9 @@
     * Precision: 87% 
     * Recall: 89%  
 
+![Screenshot 2024-04-21 at 8 37 28 PM](https://github.com/apkaur32/credit-risk-classification/assets/150749167/a655184c-7a02-4f7e-b56e-6717be621220)
+
+
 ## Summary
 
 * The model predicts both the healthy and high-risk loans quite well. The '0' (healthy loans) are predicted with 100% precision, 100% recall, and 100% f1-score which indicates the model forecasts all instances of healthy loans correctly and with utmost accuracy. The '1' (high-risk loans) have slightly lower scores, but the model is still accurate in forecasting that 87% of all instances are indeed high-risk when assessing '1' (high-risk loans) and classifies them correctly in 89% of the cases.
