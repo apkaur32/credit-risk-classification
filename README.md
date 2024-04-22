@@ -32,7 +32,7 @@
 
 ## Summary
 
-* The model predicts both the healthy and high-risk loans quite well. The '0' (healthy loans) are predicted with 100% precision, 100% recall, and 100% f1-score which indicates the model forecasts all instances of healthy loans correctly and with utmost accuracy. The '1' (high-risk loans) have slightly lower scores, but the model is still accurate in forecasting that 87% of all instances are indeed high-risk when assessing '1' (high-risk loans) and classifies them correctly in 89% of the cases.
+* The model predicts both the healthy and high-risk loans quite well. The '0' (healthy loans) are predicted with 100% precision, 100% recall, and 100% f1-score which indicates the model forecasts all instances of healthy loans correctly and with 99% accuracy. The '1' (high-risk loans) have slightly lower scores, but the model is still accurate in forecasting that 87% of all instances are indeed high-risk when assessing '1' (high-risk loans) and classifies them correctly in 89% of the cases.
 * The number of correct predictions is also much higher: (TN) 18679 for class '0' and (TP) 558 for class '1' than their FP/FN counterparts; indicating a reliable model. 
 * Based on this model's positive performance, I recommended its use for being able to distinguish between the two loan statuses effectively and highlighting the creditworthiness of borrowers.
 
