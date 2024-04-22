@@ -29,8 +29,6 @@
     * Precision: 87% 
     * Recall: 89%  
 
-![Screenshot 2024-04-21 at 8 37 28 PM](https://github.com/apkaur32/credit-risk-classification/assets/150749167/a655184c-7a02-4f7e-b56e-6717be621220)
-
 
 ## Summary
 
